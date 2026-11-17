@@ -4,7 +4,9 @@ https://huggingface.co/learn/mcp-course/unit0/introduction
 
 
 
-29th Oct :  Through - Action - Observation Cycle in Agents 
+29th Oct :  Thought - Action - Observation Cycle in Agents 
+
+![ReAct Agent Cycle](assets/react-agent.png) 
 
 15th Nov : 
 
